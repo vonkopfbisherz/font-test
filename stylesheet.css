@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Impure Mount Sans';
+    src: url('ImpureMount-Sans.woff2') format('woff2'),
+        url('ImpureMount-Sans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
